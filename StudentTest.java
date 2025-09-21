@@ -7,10 +7,9 @@ public class StudentTest{
    Student[]arr=new Student[3];
    arr[0]=g1;
    arr[1]=g2;
-   arr[2]=g3;
    Student g4=new Student("0907","d",20);
    if(contains(arr,g4)){
-      System.out.println("学生已存在");
+      System.out.println("脩搂脡煤脪脩麓忙脭脷");
    }
    else{
     int count=result(arr);
